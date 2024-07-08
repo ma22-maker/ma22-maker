@@ -23,7 +23,7 @@
 
 
 # Working Currently:
- working on the Reac Native expo 
+ working on the React Native expo 
 
 
 # 💻 Tech Stack:
